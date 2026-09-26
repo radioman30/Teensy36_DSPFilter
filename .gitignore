@@ -1,0 +1,17 @@
+# --- generat la import pe GitHub ---
+build/
+.pio/
+managed_components/
+sdkconfig.old
+Debug/
+Release/
+__pycache__/
+*.pyc
+*.log
+*.exe
+*.msi
+*.whl
+*.7z
+*.zip
+*.rar
+*.backup
